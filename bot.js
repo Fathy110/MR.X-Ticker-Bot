@@ -139,4 +139,4 @@ client.on('messageReactionAdd', async(reaction, user) => {
 }
 })
 
-client.login('NzU3NTk5NjIxOTgyNzE1OTE1.X2ivoQ.FGG7F_TzZCD2bhfH0YoibqAi2gI');/// توكن
+client.login('NzQ3NTAyMTU0OTIyODUyNTM0.X0PzoQ.-zKFgfi2IMrhYtQORvhh-KkkdfY');/// توكن
